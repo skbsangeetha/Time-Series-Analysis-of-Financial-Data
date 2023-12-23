@@ -1,5 +1,5 @@
 # Time-Series-Analysis-of-Financial-Data
-Time Series Analysis of Financial Data
+Exploring Stock Market Temporality: Autocorrelation and Return Analysis
 
 # Aim of the Project
 The aim of this project is to conduct a comprehensive time series analysis of financial data related to selected stocks (FB, MMM, IBM, and AMZN) over a 60-month period. 
